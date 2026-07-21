@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
+  "version": "0.4.7",
   "pck_url": "https://raw.githubusercontent.com/ivorojas/thebox-updates/main/patch.pck",
-  "sha256": "3406ee62bcddfcfa9d403888a86f1e2c5cc282cf27af2e7d8c4141717164980f",
-  "notes": "THE BOX v0.4.6"
+  "sha256": "aa046174777aba076036d5581f27a6e397bd94251562dcd7d2f7a0779a9ced22",
+  "notes": "THE BOX v0.4.7"
 }
